@@ -1,0 +1,3 @@
+# haskill
+
+gone functional
